@@ -29,3 +29,9 @@
 כאשר שחקן מת 3 פעמים
 
 ![image (5)](https://github.com/nivsasi1/javaSuperMario/assets/136849172/5bba9f28-da75-412a-b127-1ca3bf8992bf)
+
+מסך ניצחון אשר מחשב ניקוד לפי כמות חיים, כסף וכמות הריגות של גומבות
+
+![image](https://github.com/nivsasi1/javaSuperMario/assets/136849172/9eeeb1bd-e899-414a-97b6-32fcfec7c632)
+
+
